@@ -1,13 +1,13 @@
 COPY FOR IPHONE:
-www.growtopia1.com = 172.104.160.69
-www.growtopia2.com = 172.104.160.69
+www.growtopia1.com = 172.105.114.87
+www.growtopia2.com = 172.105.114.87
 
 COPY FOR ANDROID:
-172.104.160.69 growtopia1.com
-172.104.160.69 growtopia2.com
-172.104.160.69 www.growtopia1.com
-172.104.160.69 www.growtopia2.com
-172.104.160.69 growtopiagame.com
-172.104.160.69 hamumu.com
-172.104.160.69 rtsoft.com
+172.105.114.87 growtopia1.com
+172.105.114.87 growtopia2.com
+172.105.114.87 www.growtopia1.com
+172.105.114.87 www.growtopia2.com
+172.105.114.87 growtopiagame.com
+172.105.114.87 hamumu.com
+172.105.114.87 rtsoft.com
 HEEEHEEE
